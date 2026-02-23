@@ -35,14 +35,9 @@ Project ini menyediakan script installer supaya setup bisa langsung jalan lewat 
 ---
 
 🚀 Cara Install
-1. Clone repository
 ```
 git clone https://github.com/KangSantuy17/ShoreFetch.git
 cd ShoreFetch
 chmod +x install.sh
 ./install.sh 
-```
-2. Auto install 
-```
-curl
 ```
