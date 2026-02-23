@@ -7,15 +7,14 @@ Project ini menyediakan script installer supaya setup bisa langsung jalan lewat 
 
 ✨ Preview
 
-(opsional: tambahin screenshot di sini)_
+<img width="1419" height="845" alt="Screenshot_20260223_164253" src="https://github.com/user-attachments/assets/e2243fb7-33a1-452c-be33-ebef9fa1d43d" />
 
 ---
 
 📦 Fitur
-- 📊 Fastfetch dengan layout **boxed & seragam**
-- 🎨 Warna clean (cocok buat kitty / terminal modern)
-- 🖼️ Support **logo ASCII custom**
-- ⚡ Installer otomatis (multi distro)
+- 🎨 Clean Color
+- 🖼️ ASCII custom
+- ⚡ Automatic Installer (multi distro)
 
 ---
 
